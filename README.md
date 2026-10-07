@@ -2,7 +2,7 @@
 Hi, I’m Aaman Khan, a freelance full-stack developer passionate about building practical, scalable, and user-focused web applications. I enjoy taking full ownership of projects—from understanding requirements to development, testing, and deployment—and turning ideas into real, production-ready products.<br><br>I have successfully delivered multiple live client projects, including business and education platforms, with a strong focus on clean code, performance, and usability. Currently, I’m working on a competitive exam test platform designed to help institutes manage tests efficiently and enable students to practice, evaluate performance, and improve results.<br><br>I continuously work on improving my skills, learning new technologies, and building solutions that create real-world impact. I’m open to freelance opportunities, collaborations, and challenging projects where I can contribute value and grow as a developer.
 
 ## Featured Agentic AI Project
-[LeadFlow Agent](https://github.com/khamaan/leadflow-agent) — a CRM lead qualification assistant built from scratch with Codex and powered by Gemini API function calling. It selects read-only catalog and case-study tools, then prepares a recommendation and follow-up draft for human review.
+[LeadFlow Agent](https://github.com/khamaan/leadflow-agent) — a local browser app built from scratch with Codex and powered by Gemini API function calling. It shows read-only catalog and case-study tool steps live, then prepares a CRM lead recommendation and follow-up draft for human review.
 
 
 ## 🌐 Socials:
